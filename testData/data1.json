@@ -1,0 +1,98 @@
+{
+
+    "appData" : {
+
+        "bestOffers" : "Best offers",
+        "allignmentOfBestOffers" : "center",
+        "colorOfBestOffers" : "rgba(44, 44, 44, 1)",
+        "lisbon" : "LISBON",
+        "funchal" : "FUNCHAL",
+        "porto" : "PORTO",
+        "lisbonPrice" : "US$223",
+        "portoPrice" : "US$590",
+        "funchalPrice" : "US$302",
+        "portoDeparture" : "Miami",
+        "funchalDeparture" : "Boston",
+        "lisbonDeparture" : "New York",
+        "boston" : "Boston",
+        "newYork" : "New York",
+        "roundtrip" : "Roundtrip",
+        "portoPriceFromBoston" : "US$510",
+        "PortoLowerCase" : "Porto",
+        "routeDropdown" : [
+            "alloffers",
+            "Roundtrip",
+            "One way"
+        ],
+        "filterDropdown" : [
+            "Sort alphabetically",
+            "Sort by most recent",
+            "Sort by lowest price",
+            "Sort by highest price"
+        ],
+        "continents" : [
+            "AFRICA",
+            "EUROPE",
+            "NORTH AMERICA",
+            "SOUTH AMERICA"
+        ],
+        "allOffersAlphabeticallyAfricaCity" : [
+            "Abidjan",
+            "Accra",
+            "Boa Vista",
+            "Dakar",
+            "Lomé",
+            "Maputo",
+            "Marrakech",
+            "Sal",
+            "São Vicente"
+        ],
+        "allallOffersAlphabeticallyAfricaPrice" : [
+            "US$402",
+            "US$403",
+            "US$408",
+            "US$395",
+            "US$395",
+            "US$655",
+            "US$340",
+            "US$408",
+            "US$408"
+        ],
+
+        "roundtripAlphabeticallyEuropeCity" : [
+            "Florence",
+            "Paris",
+            "Porto"
+        ],
+
+        "roundtripAlphabeticallyEuropePrice" : [
+            "US$573",
+            "US$449",
+            "US$480"
+        ],
+        "oneWayLowestPriceSACity" : [
+            "Recife",
+            "Natal",
+            "Belém"
+        ],
+        "oneWayLowestPriceSAPrice" : [
+            "US$689",
+            "US$689",
+            "US$706"
+        ],
+        "onewayMostRecentEuropeCity" : [
+            "Paris",
+            "Amsterdam",
+            "Amsterdam"
+        ],
+        "onewayMostRecentEuropePrice" : [
+            "US$195",
+            "US$198",
+            "US$198"
+
+        ]
+
+
+    }
+
+}

@@ -1,0 +1,19 @@
+{
+    "fourStay" : {
+
+        "h" : "highLands Ranch",
+        "url" : "https://4stay.com/",
+        "cities" : [
+            "WASHINGTON D.C.",
+            "NEW YORK",
+            "SAN-FRANCISCO",
+            "BOSTON",
+            "LOS-ANGELES",
+            "BALTIMORE",
+            "CHICAGO",
+            "SEATTLE",
+            "HOUSTON"
+        ],
+        "sql1" : "SELECT title FROM film LIMIT 5;"
+    }
+}
