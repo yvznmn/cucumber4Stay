@@ -43,6 +43,11 @@ onPrepare: function () {
          jsonsSubfolder: 'jsons',
          docName: '4Stay.html'
      }).getJasmine2Reporter());
+
+     var AllureReporter = require('jasmine-allure-reporter');
+     jasmine.getEnv().addReporter(new AllureReporter({
+         resultsDir: 'allure-results'
+     }))
   
 },
     
